@@ -7,6 +7,7 @@ will contain:
 * What Is A Variable
 * while loops, for loops
 * lists & list comprehension
+* -> dictionaries
 * What Is A Function
 * -> explanation of scope
 * file i/o
